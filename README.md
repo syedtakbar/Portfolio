@@ -4,5 +4,6 @@ This is my portfolio and represents a culmination of some projects I've built wh
 It includes all relevant information for some of my projects, and Github deployed/hosted sites. 
 
 
+https://syedtakbar.github.io/Portfolio/
 
 
